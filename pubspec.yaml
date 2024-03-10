@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_messaging: ^14.6.7
+  flutter_local_notifications: ^15.1.1 #NO-WEB
+  googleapis_auth: ^1.4.1
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
